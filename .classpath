@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/AutmationProjects/Selenium/SHW/JAR Files/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
