@@ -26,6 +26,7 @@ public class SelHelloWorld {
 	    
 		System.out.println(Param.getProperty("siteURL"));
 		System.out.println(Param.getProperty("testBrowser"));
+		System.out.println("Test the build after adding this line, to verify jenkins");
 		loadWebBrowser(); 
 	   }
 	
